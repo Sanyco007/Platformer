@@ -1,0 +1,6 @@
+D:\workspace\c#\Platformer\TileMapEditor\TileMapEditor\bin\Release\TileMapEditor.exe.config
+D:\workspace\c#\Platformer\TileMapEditor\TileMapEditor\obj\x86\Release\TileMapEditor.AnimationForm.resources
+D:\workspace\c#\Platformer\TileMapEditor\TileMapEditor\obj\x86\Release\TileMapEditor.MainForm.resources
+D:\workspace\c#\Platformer\TileMapEditor\TileMapEditor\obj\x86\Release\TileMapEditor.MapSizeForm.resources
+D:\workspace\c#\Platformer\TileMapEditor\TileMapEditor\obj\x86\Release\TileMapEditor.Properties.Resources.resources
+D:\workspace\c#\Platformer\TileMapEditor\TileMapEditor\obj\x86\Release\TileMapEditor.csproj.GenerateResource.Cache

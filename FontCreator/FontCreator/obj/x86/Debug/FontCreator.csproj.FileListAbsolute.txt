@@ -1,0 +1,8 @@
+D:\C#\FontCreator\FontCreator\bin\Debug\FontCreator.exe
+D:\C#\FontCreator\FontCreator\bin\Debug\FontCreator.pdb
+D:\C#\FontCreator\FontCreator\obj\x86\Debug\FontCreator.csprojResolveAssemblyReference.cache
+D:\C#\FontCreator\FontCreator\obj\x86\Debug\FontCreator.MainForm.resources
+D:\C#\FontCreator\FontCreator\obj\x86\Debug\FontCreator.Properties.Resources.resources
+D:\C#\FontCreator\FontCreator\obj\x86\Debug\FontCreator.csproj.GenerateResource.Cache
+D:\C#\FontCreator\FontCreator\obj\x86\Debug\FontCreator.exe
+D:\C#\FontCreator\FontCreator\obj\x86\Debug\FontCreator.pdb

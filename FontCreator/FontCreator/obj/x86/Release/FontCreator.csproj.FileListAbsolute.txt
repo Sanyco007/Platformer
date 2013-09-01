@@ -1,0 +1,7 @@
+D:\C#\FontCreator\FontCreator\bin\Release\FontCreator.exe
+D:\C#\FontCreator\FontCreator\bin\Release\FontCreator.pdb
+D:\C#\FontCreator\FontCreator\obj\x86\Release\FontCreator.MainForm.resources
+D:\C#\FontCreator\FontCreator\obj\x86\Release\FontCreator.Properties.Resources.resources
+D:\C#\FontCreator\FontCreator\obj\x86\Release\FontCreator.csproj.GenerateResource.Cache
+D:\C#\FontCreator\FontCreator\obj\x86\Release\FontCreator.exe
+D:\C#\FontCreator\FontCreator\obj\x86\Release\FontCreator.pdb

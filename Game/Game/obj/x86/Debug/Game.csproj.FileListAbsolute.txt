@@ -1,0 +1,16 @@
+D:\C#\Game\Game\bin\Debug\Game.exe
+D:\C#\Game\Game\bin\Debug\Game.pdb
+D:\C#\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\C#\Game\Game\obj\x86\Debug\Game.MainForm.resources
+D:\C#\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+D:\C#\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+D:\C#\Game\Game\obj\x86\Debug\Game.exe
+D:\C#\Game\Game\obj\x86\Debug\Game.pdb
+D:\LongProjects\Platformer\Game\Game\obj\x86\Debug\Game.exe
+D:\LongProjects\Platformer\Game\Game\obj\x86\Debug\Game.pdb
+D:\LongProjects\Platformer\Game\Game\bin\Debug\Game.exe
+D:\LongProjects\Platformer\Game\Game\bin\Debug\Game.pdb
+D:\LongProjects\Platformer\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+D:\LongProjects\Platformer\Game\Game\obj\x86\Debug\Game.MainForm.resources
+D:\LongProjects\Platformer\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+D:\LongProjects\Platformer\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
